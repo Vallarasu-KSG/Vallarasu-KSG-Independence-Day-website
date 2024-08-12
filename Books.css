@@ -1,0 +1,100 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.book-main
+{
+    /* margin: 100px; */
+    /* display: block; */
+    display: grid;
+    grid-template-columns: auto auto ;
+    padding: 50px 10px;
+}
+.book-content
+{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* width: 80%; */
+    /* float: left; */
+}
+.book-content h1
+{
+    font-size: 35px;
+}
+.book-content p
+{
+    text-align: justify;
+    font-size: 20px;
+    line-height: 40px;
+}
+.book-img
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.book-img img
+{
+    /* padding-top: 0px; */
+    width: 300px;
+    height: 350px;
+    /* height: inherit; */
+    /* float:right; */
+}
+.book-img h6
+{
+    text-align: justify;
+    width: 300px;
+}
+@media screen and (max-width:500px) and (min-width:400px)
+{
+    .book-main
+{
+    display: flex;
+    flex-direction: column;
+    /* display: grid; */
+    /* grid-template-columns: auto auto ; */
+    padding: 50px 10px;
+}
+.book-content
+{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* width: 80%; */
+    /* float: left; */
+}
+.book-content h1
+{
+    font-size: 35px;
+}
+.book-content p
+{
+    text-align: justify;
+    font-size: 20px;
+    line-height: 40px;
+}
+.book-img
+{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.book-img img
+{
+    /* padding-top: 0px; */
+    width: 300px;
+    height: 350px;
+    /* height: inherit; */
+    /* float:right; */
+}
+.book-img h6
+{
+    text-align: justify;
+    width: 300px;
+}   
+}
