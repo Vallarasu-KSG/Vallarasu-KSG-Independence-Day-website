@@ -1218,7 +1218,7 @@
         padding: 1% 0;
     }
 }
-@media only screen and (max-width: 400px)
+@media only screen and (min-width: 300px) and (max-width: 400px)
 {
     /* section-3 */
     .section-3 h1 
