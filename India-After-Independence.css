@@ -296,25 +296,46 @@
 {
     width: 80%;
 }
-@media screen and (max-width: 500) and (min-width:400)
+ /* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 900px) and (max-width: 1200px) */
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) and (max-width: 900px) */
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) and (max-width: 768px)
 {
-    .India-After-Independence-section-6
+    .India-After-Independence-main
+{
+    margin-left: 0px;
+    padding-left: 60px;
+    width:90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    /* margin-left: 2%; */
+    /* padding-right: -200px; */
+    /* padding: 0 0 0 50px; */
+    /* margin-right: 20%; */
+}
+    /* India-After-Independence-section-6 */
+.India-After-Independence-section-6
 {
     margin-top: 20px;   
-    /* width: 500px; */
 }
 .India-After-Independence-section-6 h4
 {
     margin-top: 20px;
-    border-bottom: 1px solid black ;
-    /* width: 500px; */
-    text-align:start;
-    font-size: 10px
+    border-bottom: none ;
+    width: 100%;
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
 }
 .India-After-Independence-section-6 p
 {
     padding-top: 10px;
-    font-size: 15px;
+    font-size: 25px;
     text-align: justify;
 }
 .India-After-Independence-section-6-img-11 img
@@ -331,7 +352,7 @@
 }
 .India-After-Independence-section-6-img-11 h6
 {
-    width: 50%;
+    width: 100%;
 }
 .India-After-Independence-section-6-img-12 img
 {
@@ -347,55 +368,80 @@
 }
 .India-After-Independence-section-6-img-12 h6
 {
-    width: 80%;
+    width: 100%;
 }
-/* end */   
+/* end */
 }
-/* footer */
-/* @media screen and (max-width:900px) and (min-width:500px)
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px)
 {
-    
-.footer
+    .India-After-Independence-main
 {
-    display: block;
-    background-color: rgb(238, 167, 35);
-}
-.footer-grid-1 img
-{
-    padding-bottom: 20px;
-}
-.footer
-{
-    width: 780px;
+    margin-left: 0px;
+    padding-left: 60px;
+    width:90%;
     display: flex;
     flex-direction: column;
-    justify-content:center;
-    align-items:center;
-    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    /* margin-left: 2%; */
+    /* padding-right: -200px; */
+    /* padding: 0 0 0 50px; */
+    /* margin-right: 20%; */
+}
+    /* India-After-Independence-section-6 */
+.India-After-Independence-section-6
+{
+    margin-top: 20px;   
+}
+.India-After-Independence-section-6 h4
+{
+    margin-top: 20px;
+    border-bottom: none ;
+    width: 100%;
+    text-align: justify;
+    font-size: 30px;
     font-weight: bold;
 }
-.footer li
+.India-After-Independence-section-6 p
 {
-    list-style-type: none;
+    padding-top: 10px;
+    font-size: 25px;
+    text-align: justify;
 }
-.footer a
+.India-After-Independence-section-6-img-11 img
 {
-    text-decoration: none;
+    width: 50%;   
 }
-.footer a:hover
+.India-After-Independence-section-6-img-11
 {
-    color:transparent;
-    background: linear-gradient(1deg, var(--color-1) 30%, var(--color-2) 40%,var(--color-3) 35% );
-    background-clip:text;
-}
-.footer-1
-{
-    text-align: center;
-}
-.footer-2 ul
-{
+    margin: 20px 0;
     display: flex;
-    justify-content:center;
-    align-items:baseline;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
 }
-} */
+.India-After-Independence-section-6-img-11 h6
+{
+    width: 100%;
+}
+.India-After-Independence-section-6-img-12 img
+{
+    width: 80%;   
+}
+.India-After-Independence-section-6-img-12
+{
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+.India-After-Independence-section-6-img-12 h6
+{
+    width: 100%;
+}
+/* end */
+}
+/* Extra small devices (phones, 600px and down) */
