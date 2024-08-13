@@ -120,6 +120,7 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 768px)
 {
+    
     .state-div-mid-div-1
     {
         display: none;
@@ -154,30 +155,145 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px)
 {
+    .state-div-main
+{
+    /* padding-top:50px ; */
+    display: block;
+    /* grid-template-columns: auto auto; */
+    /* gap: 20px; */
+}
+/* state-div-mid-div-1 */
+.state-div-mid-div-1
+{
+    margin-top: 50px;
+    padding: 10px 50px;
+}
+.state-div-mid-div-1 ul
+{
+    font-weight: bold;
+    line-height: 40px;
+}
+.state-div-mid-div-1 li:hover
+{
+    cursor: pointer;
+    opacity: 0.8;
+    transform: scale(1.01);
+}
+.state-div-mid-div-1 h4
+{
+    color: red;
+    font-weight: bold;
+}
+/* ----------------------------------- */
+
+/* state-div-mid-div-2 */
+.state-div-mid-div-2
+{
+    margin-top: 10px;
+}
+/* section all */
+.state-div-mid-div-2 section
+{
+    padding: 10px 0;
+}
+/* state-section-2 */
+.state-section-2 table tr td 
+{
+    border: 1px solid black ;
+    padding: 15px 30px;
+    text-align: center;  
+}
+.state-section-2 th
+{
+    padding: 15px 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+.state-section-2 a
+{
+    text-decoration: none;
+}
+:root
+{
+    --color-1: green;
+    --color-2: white;
+    --color-3: orangered;
+}
+.state-section-2 a:hover
+{
+    color:transparent;
+    background: linear-gradient(1deg, var(--color-1) 30%, var(--color-2) 40%,var(--color-3) 35% );
+    background-clip:text;
+}
+/* state-section-3 */
+.state-section-3 table tr td
+{
+    border: 1px solid black;
+    padding: 10px 40px;
+    text-align: center;
+}
+.state-section-3 th
+{
+    padding: 10px 40px;
+    border: 1px solid black;
+    text-align: center;
+}
+/* state-section-5 */
+.state-section-5 table tr td
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+.state-section-5 th
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+/* state-section-6 */
+.state-section-6 table tr td
+{
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+.state-section-6 th
+{
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+    .state-div-mid-div-2
+    {
+        padding: 10px;
+        width: 100%;
+    }
     .state-div-mid-div-1
     {
         display: none;
     }
     .state-section-2 table
     {
-        margin: 10px 0 10px 10px;
+        /* margin-left: -10px; */
+        /* margin: 0px 0 0px 10px; */
     }
     .state-section-2 table tr td 
 {
     border: 1px solid black ;
-    padding: 15px 15px;
+    padding: 10px 8px;
     text-align: center;  
 }
 .state-section-2 th
 {
-    padding: 15px 15px;
+    padding: 10px 4px;
     text-align: center;
     border: 1px solid black;
 }
-.state-section-3 table
+.state-section-4 img
 {
-    margin-left: 60px;
+    width: 500px;
 }
+/* .state-section-3 table */
+/* { */
+    /* margin-left: 60px; */
+/* } */
     .fighters .card img
 {
     height: 600px;
