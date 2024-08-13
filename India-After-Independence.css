@@ -375,20 +375,45 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px)
 {
+ 
     .India-After-Independence-main
 {
+    /* margin: 10px; */
+    padding: 20px 10px 20px 20px;
     margin-left: 0px;
-    padding-left: 60px;
-    width:90%;
+    /* padding-left: 60px; */
+    width:100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items:center;
     text-align: justify;
-    /* margin-left: 2%; */
-    /* padding-right: -200px; */
-    /* padding: 0 0 0 50px; */
-    /* margin-right: 20%; */
+}
+.India-After-Independence-section-2 h2
+{
+    border: none;
+    width: 100%;
+}
+.India-After-Independence-section-2
+{
+    width: 100%;
+}
+.India-After-Independence-section-1 h1
+{
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
+}
+.India-After-Independence-section-4 h2
+{
+    width: 100%;
+    border: none;
+
+}
+
+.India-After-Independence-section-4
+{
+    width: 100%;
 }
     /* India-After-Independence-section-6 */
 .India-After-Independence-section-6
@@ -439,6 +464,33 @@
     align-items: center;   
 }
 .India-After-Independence-section-6-img-12 h6
+{
+    width: 100%;
+}
+.India-After-Independence-section-5 h2
+{
+    border: none;
+    width: 100%;
+}
+.India-After-Independence-section-3 h2
+{
+    border: none;
+    width: 100%;
+}
+.India-After-Independence-section-3
+{
+    width: 100%;
+}
+.India-After-Independence-section-5
+{
+    width: 100%;
+}
+.India-After-Independence-section-7 h2
+{
+    border: none;
+    width: 100%;
+}
+.India-After-Independence-section-7
 {
     width: 100%;
 }
