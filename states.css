@@ -265,6 +265,10 @@
         padding: 10px;
         width: 100%;
     }
+    .state-section-2
+    {
+        overflow-x:auto;
+    }
     .state-div-mid-div-1
     {
         display: none;
@@ -272,18 +276,18 @@
     .state-section-2 table tr td 
 {
     border: 1px solid black ;
-    padding: 10px 8px;
+    padding: 10px 15px;
     text-align: center;  
 }
 .state-section-2 th
 {
-    padding: 10px 4px;
+    padding: 10px 15px;
     text-align: center;
     border: 1px solid black;
 }
 .state-section-4 img
 {
-    width: 500px;
+    width: 100%;
 }
 /* .state-section-3 table */
 /* { */
