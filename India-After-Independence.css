@@ -351,19 +351,17 @@
 }
 /* end */   
 }
-@media screen and (max-width:900px) and (min-width:500px)
+/* footer */
+/* @media screen and (max-width:900px) and (min-width:500px)
 {
-    /* footer */
+    
 .footer
 {
-    /* padding: 20px 0; */
     display: block;
     background-color: rgb(238, 167, 35);
-    /* top: 1900px; */
 }
 .footer-grid-1 img
 {
-    /* margin-left: 100px; */
     padding-bottom: 20px;
 }
 .footer
@@ -399,6 +397,5 @@
     display: flex;
     justify-content:center;
     align-items:baseline;
-    /* gap: 20px; */
 }
-}
+} */
