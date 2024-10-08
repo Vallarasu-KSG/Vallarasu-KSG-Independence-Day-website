@@ -8,12 +8,14 @@
 {
     height: 300px;
 }
+
 .fighters img:hover
 {
     height: 300px;
     opacity: 0.9;
     transform: scale(0.99);
 }
+
 .fighters
 {
     position: relative;
@@ -21,10 +23,12 @@
     padding: 5%;
     text-align: center;
 }
+
 .fighters a
 {
     text-decoration: none;
 }
+
 .fighters a:hover
 {
     text-decoration: underline;

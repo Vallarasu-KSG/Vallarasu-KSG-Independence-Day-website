@@ -110,14 +110,7 @@
     border: 1px solid black;
     padding: 5px 10px;
 }
-/* Large devices (laptops/desktops, 992px and up) */
-/* @media only screen and (min-width: 900px) and (max-width: 1200px)
-{
 
-} */
-/* Medium devices (landscape tablets, 768px and up) */
-/* @media only screen and (min-width: 768px) and (max-width: 900px) */
-/* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 768px)
 {
     
@@ -157,10 +150,7 @@
 {
     .state-div-main
 {
-    /* padding-top:50px ; */
     display: block;
-    /* grid-template-columns: auto auto; */
-    /* gap: 20px; */
 }
 /* state-div-mid-div-1 */
 .state-div-mid-div-1
@@ -289,10 +279,6 @@
 {
     width: 100%;
 }
-/* .state-section-3 table */
-/* { */
-    /* margin-left: 60px; */
-/* } */
     .fighters .card img
 {
     height: 600px;

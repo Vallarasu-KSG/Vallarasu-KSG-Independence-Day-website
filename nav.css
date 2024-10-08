@@ -27,7 +27,6 @@ nav ul li button
     color: white;
     border: none;
     background: none;
-    /* text-decoration: none; */
 }
 nav span
 {
@@ -84,20 +83,14 @@ nav button:hover
         font-size: 60px;
         background-color: black;
         height: 60px;
-        /* position: absolute; */
-        /* margin-left: 100px; */
         display: flex;
         justify-content: end;
         color: white;
-        /* position: relative; */
-        /* z-index: 10; */
     }
     #buttonn2
     {
         position: absolute;
         margin-top: -50px;
-        /* padding-left: 20px; */
-        /* margin-left: -20x; */
     }
     .navlist
     {
@@ -144,7 +137,6 @@ nav button:hover
     border-radius: 15px;
     transform: scale(0) translateY(0) translateX(50px);
     opacity: 0;
-    /* background-color: black; */
     transition: .5s;
 }
 nav li button:hover span
@@ -156,7 +148,6 @@ nav li button:hover span
 nav button:hover
 {
     color: red;
-    /* color: blue; */
 }
 }
 /* Extra small devices (phones, 600px and down) */
@@ -187,15 +178,11 @@ nav button:hover
         display: flex;
         justify-content: end;
         color: white;
-        /* position: relative; */
-        /* z-index: 10; */
     }
     #buttonn2
     {
         position: absolute;
         margin-top: -50px;
-        /* padding-left: 20px; */
-        /* margin-left: -20x; */
     }
     .navlist
     {
@@ -203,7 +190,6 @@ nav button:hover
         top: 10%;
         line-height: 50px;
         right: 100%;
-        /* left: 100%; */
         width: 200px;
         height: 60vh;
         background:black;
@@ -230,4 +216,4 @@ nav button:hover
         padding-left: 20px;
         gap: 20px;
     }
-}
+}   

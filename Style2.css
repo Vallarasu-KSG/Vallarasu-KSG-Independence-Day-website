@@ -11,7 +11,6 @@
     z-index: -1;
     padding-top: 55px;
     width: 100%;
-    /* margin-left: 150px; */
 }
 .section-1 .img1
 {
@@ -83,12 +82,12 @@
 }
 /* ---------------------end-------------------- */
 
+
 /* .section-3 */
 .section-3 h1 
 {
     font-weight: bold;
     color: black;
-    /* border-bottom: 1px solid black; */
     text-decoration: underline;
     text-align: center;
 }
@@ -109,17 +108,13 @@
     height: 200px;
     background: none;
     border-radius: 5px;
-    /* background-color: transparent; */
 }
 .section-3-mid-sec-1 #section-3-img1
 {
-    /* background: ; */
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
     border-radius: 5px;
-    /* position: relative; */
-    /* z-index: 21; */
 }
 .section-3-mid-sec-1 p
 {
@@ -133,14 +128,10 @@
 {
     position: relative;
     z-index: -1;
-    /* position: relative;
-    left: 150px; */
     margin-left: 230px;
 }
 .section-3-mid-sec-2 img
 {
-    /* position: relative; */
-    /* z-index: -1; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -154,7 +145,6 @@
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
-    /* position: relative; */
     right: 365px;
     border-radius: 5px;
 }
@@ -167,7 +157,6 @@
 }
 .section-3-mid-sec-2 img
 {
-    /* position: relative; */
     left: 732px;
     border-radius: 5px;
 }
@@ -188,11 +177,9 @@
     height: 200px;
     background: none;
     border-radius: 5px;
-    /* background-color: transparent; */
 }
 .section-3-mid-sec-3 #section-3-img1
 {
-    /* background: ; */
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
@@ -210,8 +197,6 @@
 {
     position: relative;
     z-index: -1;
-    /* position: relative;
-    left: 150px; */
     margin-left: 230px;
 }
 .section-3-mid-sec-4 img
@@ -229,7 +214,6 @@
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
-    /* position: relative; */
     right: 365px;
     border-radius: 5px;
 }
@@ -242,7 +226,6 @@
 }
 .section-3-mid-sec-4 img
 {
-    /* position: relative; */
     left: 732px;
     border-radius: 5px;
 }
@@ -263,11 +246,9 @@
     height: 200px;
     background: none;
     border-radius: 5px;
-    /* background-color: transparent; */
 }
 .section-3-mid-sec-5 #section-3-img1
 {
-    /* background: ; */
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
@@ -285,8 +266,6 @@
 {
     position: relative;
     z-index: -1;
-    /* position: relative;
-    left: 150px; */
     margin-left: 230px;
 }
 .section-3-mid-sec-6 img
@@ -304,7 +283,6 @@
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
-    /* position: relative; */
     right: 365px;
     border-radius: 5px;
 }
@@ -317,7 +295,6 @@
 }
 .section-3-mid-sec-6 img
 {
-    /* position: relative; */
     left: 732px;
     border-radius: 5px;
 }
@@ -338,11 +315,9 @@
     height: 200px;
     background: none;
     border-radius: 5px;
-    /* background-color: transparent; */
 }
 .section-3-mid-sec-7 #section-3-img1
 {
-    /* background: ; */
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
@@ -361,8 +336,6 @@
 {
     position: relative;
     z-index: -1;
-    /* position: relative;
-    left: 150px; */
     margin-left: 230px;
 }
 .section-3-mid-sec-8 img
@@ -380,7 +353,6 @@
     background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
     background-repeat: no-repeat;
     background-size: 800px 200px;
-    /* position: relative; */
     right: 365px;
     border-radius: 5px;
 }
@@ -393,14 +365,12 @@
 }
 .section-3-mid-sec-8 img
 {
-    /* position: relative; */
     left: 732px;
     border-radius: 5px;
 }
 /* footer */
 .footer
 {
-    /* width: 100px; */
     padding: 20px 0;
     display: block;
     background-color: rgb(238, 167, 35);
@@ -441,11 +411,7 @@
     gap: 20px;
 }
 /* end */
-/* Extra large devices (large laptops and desktops, 1200px and up)
-@media only screen and (min-width: 1200px)
-{
-    
-} */
+
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 900px) and (max-width: 1200px)
 {
@@ -454,8 +420,6 @@
 
 {
     display: flex;
-    /* display: grid;
-    grid-template-columns: auto auto; */
     margin: 1% 1% 1% 1%;
 }
 .section-2 a
@@ -492,7 +456,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* padding: 5px 0 10px 5px; */
 }
 .section-2-mid-sec-2 > h4
 {
@@ -543,8 +506,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        /* display: grid; */
-        /* grid-template-columns: auto auto; */
         margin: 1% 1% 1% 1%; 
     }
     .section-2-mid-sec-2
@@ -565,7 +526,6 @@
     {
         display: grid ;
         grid-template-columns: auto auto auto;
-        /* grid-column-gap: 20%; */
         padding: 1% 0;
     }
 }
@@ -579,8 +539,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        /* display: grid; */
-        /* grid-template-columns: auto auto; */
         margin: 1% 1% 1% 1%; 
     }
     .section-2-mid-sec-1
@@ -602,7 +560,6 @@
     {
         font-weight: bold;
         color: black;
-        /* border-bottom: 1px solid black; */
         text-decoration: underline;
         text-align: center;
     }
@@ -616,26 +573,18 @@
     }
     .section-3-mid-sec-1 img
     {
-        /* display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center; */
         margin: 0 10% 0 20%;
         width: 400px;
         height: 200px;
         background: none;
         border-radius: 5px;
-        /* background-color: transparent; */
     }
     .section-3-mid-sec-1 #section-3-img1
     {
-        /* background: ; */
         background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
         background-repeat: no-repeat;
         background-size: 800px 160px;
         border-radius: 5px;
-        /* position: relative; */
-        /* z-index: 21; */
     }
     .section-3-mid-sec-1 p
     {
@@ -898,6 +847,10 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px)
 {
+    .carousel-item img
+    {
+        height: 200px;
+    }
     .section-2
     {
         text-align: justify;
@@ -905,14 +858,11 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        /* display: grid; */
-        /* grid-template-columns: auto auto; */
         margin: 1% 1% 1% 1%; 
     }
     .section-2-mid-sec-1
     {
         width: 100%;
-        /* margin-left: 10px; */
         text-align: justify;
         padding: 10px;
     }
@@ -925,7 +875,6 @@
     {
         font-weight: bold;
         color: black;
-        /* border-bottom: 1px solid black; */
         text-decoration: underline;
         text-align: center;
     }
@@ -944,11 +893,9 @@
         height: 200px;
         background: none;
         border-radius: 5px;
-        /* background-color: transparent; */
     }
     .section-3-mid-sec-1 #section-3-img1
     {
-        /* background: ; */
         background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
         background-repeat: no-repeat;
         background-size: 800px 220px;
@@ -1225,7 +1172,6 @@
     {
         font-weight: bold;
         color: black;
-        /* border-bottom: 1px solid black; */
         text-decoration: underline;
         text-align: center;
     }
@@ -1244,11 +1190,9 @@
         height: 200px;
         background: none;
         border-radius: 5px;
-        /* background-color: transparent; */
     }
     .section-3-mid-sec-1 #section-3-img1
     {
-        /* background: ; */
         background-image:url(https://th.bing.com/th?q=Indian+Flag+Ppt+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247);
         background-repeat: no-repeat;
         background-size: 800px 280px;
