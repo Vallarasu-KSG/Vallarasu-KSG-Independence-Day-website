@@ -178,11 +178,13 @@ nav button:hover
         display: flex;
         justify-content: end;
         color: white;
+        padding-right: 3%;
     }
     #buttonn2
     {
         position: absolute;
         margin-top: -50px;
+        margin-left: 3%;
     }
     .navlist
     {
